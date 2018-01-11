@@ -2,6 +2,7 @@
 
 # wdi-10-chi
 
+![miles_on_the_holodeck](https://i.pinimg.com/736x/18/cc/fe/18ccfe752ae83e22b511abee3238109b--deep-space-gangsters.jpg)
 
 # More Mongo - Intermediate Mongo
 
