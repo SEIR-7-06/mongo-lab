@@ -2,6 +2,7 @@
 
 # wdi-10-chi
 
+![chief engineer Miles O'Brien](https://www.yourprops.com/movieprops/default/yp_51134baede0721.14503715/Star-Trek-Deep-Space-Nine-Chief-Miles-O-Brien-VOY-style-Duty-Uniform-3.jpg)
 
 # Mongo Lab
 
