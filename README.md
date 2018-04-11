@@ -1,14 +1,14 @@
 ![ga_cog](https://camo.githubusercontent.com/6ca75e52ba7cf640161aefd5355a4fbfff7d5f18/687474703a2f2f6d6f62626f6f6b2e67656e6572616c617373656d622e6c792f67615f636f672e706e67)
 
-# wdi-10-chi
+# wdi-11-chi _curious-turtles_
 
 ![chief engineer Miles O'Brien](https://www.yourprops.com/movieprops/default/yp_51134baede0721.14503715/Star-Trek-Deep-Space-Nine-Chief-Miles-O-Brien-VOY-style-Duty-Uniform-3.jpg)
 
 # Mongo Lab
 
-1. Create a sub-database called "lab"
-1. "Use" that sub-database
-1. Create a collection in that sub-database called "employees"
+1. Create a database called "lab"
+1. "Use" that database
+1. Create a collection in that database called "employees"
 1. Run this code to insert many documents into your employees collection
 
 	```
@@ -97,5 +97,5 @@
 		salary: 165}]);
 	```
 
-1. Read along with [these continued notes about mongo](./more-mongo.md).  Follow through each of the explanations.  Follow the commands and perform appropriate finds after each update call to see the results.
+1. Read along with [these notes about mongo which will go slightly (but only slightly) deeper than we just did](./more-mongo.md).  Follow through each of the explanations.  Follow the commands and perform appropriate finds after each update call to see the results.
 
