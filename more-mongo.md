@@ -1,6 +1,6 @@
 ![ga_cog](https://camo.githubusercontent.com/6ca75e52ba7cf640161aefd5355a4fbfff7d5f18/687474703a2f2f6d6f62626f6f6b2e67656e6572616c617373656d622e6c792f67615f636f672e706e67)
 
-# wdi-11-chi _curious-turtles_
+
 
 ![miles_on_the_holodeck](https://i.pinimg.com/736x/18/cc/fe/18ccfe752ae83e22b511abee3238109b--deep-space-gangsters.jpg)
 
