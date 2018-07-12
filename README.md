@@ -1,6 +1,6 @@
 ![ga_cog](https://camo.githubusercontent.com/6ca75e52ba7cf640161aefd5355a4fbfff7d5f18/687474703a2f2f6d6f62626f6f6b2e67656e6572616c617373656d622e6c792f67615f636f672e706e67)
 
-# wdi-11-chi _curious-turtles_
+# wdi-cc2 _funky-ducks_
 
 ![chief engineer Miles O'Brien](https://www.yourprops.com/movieprops/default/yp_51134baede0721.14503715/Star-Trek-Deep-Space-Nine-Chief-Miles-O-Brien-VOY-style-Duty-Uniform-3.jpg)
 
