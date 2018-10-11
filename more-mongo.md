@@ -1,10 +1,10 @@
-![ga_cog](https://camo.githubusercontent.com/6ca75e52ba7cf640161aefd5355a4fbfff7d5f18/687474703a2f2f6d6f62626f6f6b2e67656e6572616c617373656d622e6c792f67615f636f672e706e67)
+![ga_cog](https://camo.githubusercontent.com/6ce15b81c1f06d716d753a61f5db22375fa684da/68747470733a2f2f67612d646173682e73332e616d617a6f6e6177732e636f6d2f70726f64756374696f6e2f6173736574732f6c6f676f2d39663838616536633963333837313639306533333238306663663535376633332e706e67)
 
+# More Mongo - Intermediate Mongo
 
 
 ![miles_on_the_holodeck](https://i.pinimg.com/736x/18/cc/fe/18ccfe752ae83e22b511abee3238109b--deep-space-gangsters.jpg)
 
-# More Mongo - Intermediate Mongo
 
 ## Learning Objectives
 1. Use intermediate find operators
