@@ -94,7 +94,7 @@
 		weight: 704,
 		gender: 'm',
 		salary: 165}]);
-	```
+```
 
 1. Read along with [these notes about mongo which will go slightly (but only slightly) deeper than we just did](./more-mongo.md).  Follow through each of the explanations.  Follow the commands and perform appropriate finds after each update call to see the results.
 
